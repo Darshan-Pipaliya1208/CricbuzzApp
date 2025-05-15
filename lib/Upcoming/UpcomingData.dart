@@ -97,7 +97,7 @@ class _UpcomingdataState extends State<Upcomingdata> {
                     style: TextStyle(
                       color: Colors.white70,
                       fontStyle: FontStyle.italic,
-                      fontSize: 16,
+                      fontSize: 15,
                     ),
                   ),
                 );
