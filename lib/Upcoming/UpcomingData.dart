@@ -67,8 +67,8 @@ class _UpcomingdataState extends State<Upcomingdata> {
                     onTap: () {
                       Get.to(
                             () => Upcomingdatain(seriesMatch),
-                        transition: Transition.zoom,      // 🔄 Slide animation
-                        duration: Duration(milliseconds: 600),   // ⏱ Duration of animation
+                        transition: Transition.zoom,
+                        duration: Duration(milliseconds: 600),
                       );
                     },
                     leading: CircleAvatar(
