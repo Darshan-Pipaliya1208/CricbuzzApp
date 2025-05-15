@@ -1,16 +1,22 @@
-# cricbuzz
+# 🏏 CricbuzzApp – Live Cricket Score App (Flutter)
 
-A new Flutter project.
+CricbuzzApp** is a Flutter-based mobile application designed to provide users with live cricket scores, match details, and player statistics through a clean and responsive user interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📊 Live cricket scores
+- 🏏 Match details and player statistics
+- 🌐 Real-time data updates via API integration
+- ✨ Clean and responsive UI using Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To run this app locally:
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Darshan-Pipaliya1208/CricbuzzApp.git
